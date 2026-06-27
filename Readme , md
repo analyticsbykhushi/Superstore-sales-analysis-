@@ -1,0 +1,13 @@
+# Superstore-Sales-Analysis
+
+### Objective:
+To analyze the Superstore sales dataset to identify top-performing product categories, understand customer buying patterns, and provide actionable business insights.
+
+### Process & Tools Used:
+* **Tools:** Google Sheets (Mobile).
+* **Methodology:** Performed data cleaning and exploratory data analysis (EDA) using filters and pivot charts.
+
+### Key Insights:
+* **High Demand Products:** The analysis shows that "Binders" and "Paper" are the most frequently ordered items, indicating high customer demand for these categories.
+* **Product Performance:** Sub-categories like "Machines" and "Copiers" have the lowest transaction volume compared to office supplies, suggesting a need for a different marketing strategy for these items.
+  
